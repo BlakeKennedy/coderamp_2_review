@@ -1,0 +1,29 @@
+body {
+	background-color: dodgerblue;
+}
+
+header {
+	background: url(http://images.akamai.steamusercontent.com/ugc/351647207501844714/54E5254B746088200EDA78E9E5922717ED4323D4/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C268:268&composite-to%3D*%2C*%7C268%3A268&background-color=black) ;
+	background-size: width: ; height: 270px ;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+aside {
+	float: left;
+	width:200px;
+}
+
+#main {
+	float: right;
+	width:700px;
+}
+
+h1 {
+	color: mediumaquamarine;
+}
+
+nav > ul {
+list-style-type: katakana;
+
+}
