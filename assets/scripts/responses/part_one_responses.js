@@ -7,3 +7,18 @@ var fakeStreet = '123 Market Street';
 var thisCity = 'San Francisco';
 var thisState = 'California';
 var fakeAddress = fakeStreet + ' ' + thisCity + ', ' + thisState;
+
+
+function greet () {
+}
+
+function greet () {
+	return 'Hello World!';
+}
+
+function greetName () {
+
+}
+
+function greetName (name) {
+	}
